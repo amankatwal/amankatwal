@@ -1,18 +1,37 @@
 <div align="center">
 
-# Hi, I'm Amandeep Singh 👋
+# Hi, I’m Amandeep Singh 👋
 
-### Full-Stack Developer
+### Full-stack developer building useful web products
 
-I build web applications across the frontend, backend, and data layer.
+I work across frontend, backend, and data—building web apps, APIs, and AI-powered workflow tools.
 
-[LinkedIn](https://www.linkedin.com/in/amandeep-singh004/) · [GitHub Repositories](https://github.com/amankatwal?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/amandeep-singh004/) · [Repositories](https://github.com/amankatwal?tab=repositories)
 
 </div>
 
 ---
 
-### 🧰 Technologies
+## 🚀 Featured work
+
+### [RavityOS](https://github.com/amankatwal/RavityOS) · AI workflow automation
+Build AI agents that research, use connected tools, and help move repeatable tasks forward. The project includes agent setup, integrations, and activity views.
+
+**TypeScript · Next.js · React · Prisma · PostgreSQL**  
+[Explore the live app](https://ravity-os.vercel.app)
+
+### [FItRavity](https://github.com/amankatwal/FItRavity) · Fitness & trainer platform
+A platform for organizations, members, and trainers, with trainer applications and configurable training plans.
+
+**TypeScript · Next.js · React · Prisma · PostgreSQL**  
+[Explore the live app](https://f-it-ravity.vercel.app)
+
+### [ChaiBooze](https://github.com/amankatwal/chaibooze) · E-commerce
+An e-commerce project with a separate [Node.js / Express backend](https://github.com/amankatwal/chaibooze-backend) for accounts, products, reviews, orders, admin operations, and payment workflows.
+
+---
+
+## 🧰 Tools I use
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -23,26 +42,11 @@ I build web applications across the frontend, backend, and data layer.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
-### 🚀 Selected Projects
-
-#### [FItRavity](https://github.com/amankatwal/FItRavity)
-A fitness and trainer platform with organization and member roles, trainer applications, and configurable training plans.
-
-**Stack:** Next.js · React · TypeScript · Prisma · PostgreSQL  
-[Open the live demo](https://f-it-ravity.vercel.app)
-
-#### [ChaiBooze](https://github.com/amankatwal/chaibooze)
-An e-commerce project with a separate [Node.js/Express backend](https://github.com/amankatwal/chaibooze-backend) covering accounts, products, reviews, orders, admin operations, and payment workflows.
-
-**Stack:** JavaScript · Node.js · Express
-
----
-
-### 🌱 What I enjoy building
+## What I enjoy building
 
 - End-to-end web applications
 - Backend APIs and data models
-- Useful product experiences, from interface to integration
+- Product experiences that connect interface, services, and data
 
 ---
 
